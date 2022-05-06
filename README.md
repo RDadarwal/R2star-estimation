@@ -1,3 +1,3 @@
 # R2*-estimation
 This notebook estimates the effective transverse relaxation rate (R2*) from multi-echo gradient-recalled echo (GRE) data
-![](R2star.map.tif)
+![](R2star.map.png)
